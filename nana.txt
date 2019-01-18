@@ -1,0 +1,15 @@
+artist:a
+genre:a
+albums:a
+song:a
+quality:a
+artist2:e
+genre2:e
+album2:e
+song2:e
+quality2:e
+artist:a
+genre:a
+albums:a
+song:aa
+quality:a

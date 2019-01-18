@@ -1,0 +1,6 @@
+1:#Nana Antwi
+2:#CS21
+3:#Sample program
+4:print('This is a sample program')
+5:print('Do you remember when this seemed hard?')
+6:print('Python is cool!') 
