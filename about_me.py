@@ -1,0 +1,5 @@
+print ('Nana Antwi')
+print ('I am a second year Computer Sciene major')
+print ('I am from Bronx, NY')
+print ('I have a brother and sister')
+print ('I love to workout')
